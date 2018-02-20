@@ -1,6 +1,6 @@
 ---
 title: "How to identify the correct way of doing barbell lifts"
-author: "Simone Krämer"
+author: "Simone Kraemer"
 date: "16 Februar 2018"
 output: html_document
 ---
